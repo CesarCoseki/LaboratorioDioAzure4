@@ -1,4 +1,4 @@
-###Passo a passo necessario para busca cognitiva
+### Passo a passo necessario para busca cognitiva
 
 1. Abrir um Azure Ai search e configurar o recurso conforme a necessidade;
 2. Abrir um recurso de IA, em Azure AI service;
